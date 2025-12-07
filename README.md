@@ -6,12 +6,12 @@ When some cases draw attention to me, chances are I'll give it a shot to see wha
 
 My main techs are Python (with ML-related libraries like TensorFlow, PyTorch, Keras, etc.), Jupyter, n8n, and JavaScript. Also, creative-related tools are Canva, CapCut, CorelDRAW, and Figma.
 
-I'm a freshly graduated from the Computer Science major in Bachelor's Degree, still so much journey to come! I keep updating any projects I dive in, but please take a look at what I've done before. Please get to know me more on my [LinkedIn](https://www.linkedin.com/in/m-akmal-hafizh/)!
+I'm a freshly graduated from the Computer Science major in Bachelor's Degree (February 2025), still so much journey to come! I keep updating any projects I dive in, but please take a look at what I've done before. Please get to know me more on my [LinkedIn](https://www.linkedin.com/in/m-akmal-hafizh/)!
 
 _Fun Facts:_
 - I'm also doing creative things (writing stories, designing, creating content videos, etc.)
 - I really like an RPG-kindish game (now mainly in Roblox)
-- I do like to watching some animes.
+- I do like watching some anime.
 - Hobbies: Playing games, watching YouTube/anime, and learn some new things!
 
 <!--
